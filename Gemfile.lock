@@ -551,7 +551,7 @@ GEM
     regexp_parser (2.11.3)
     reline (0.6.2)
       io-console (~> 0.5)
-    resend (0.26.0)
+    resend (0.27.0)
       httparty (>= 0.21.0)
     rexml (3.4.4)
     rubocop (1.81.6)
